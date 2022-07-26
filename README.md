@@ -1,4 +1,7 @@
-# New Project
+# Todo App 
+
+Todo app made it with snowpack typescript template
+Just for practic!
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
